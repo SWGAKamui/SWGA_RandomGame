@@ -5,6 +5,8 @@ Application android pour l'association SWGA
 
 Sélectionner les jeux, et l'application choisit aléatoirement un jeu.
 
+Lien Playtsore (Bientôt)
+
 <img src="https://github.com/SWGAKamui/SWGA_RandomGame/blob/master/example.png" width="288px" height="512px" />
 
 Il y a actuellement 22 jeux dans l'application :
