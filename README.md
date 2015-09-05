@@ -5,7 +5,7 @@ Application android pour l'association SWGA
 
 Sélectionner les jeux, et l'application choisit aléatoirement un jeu.
 
-![alt image](https://github.com/SWGAKamui/SWGA_RandomGame/blob/master/example.png=100x20)
+<img src="https://github.com/SWGAKamui/SWGA_RandomGame/blob/master/example.png" width="144px" height="256px" />
 
 Il y a actuellement 22 jeux dans l'application :
 
