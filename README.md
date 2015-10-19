@@ -14,8 +14,8 @@ Il y a actuellement 22 jeux dans l'application :
 * Dead or Alive 5
 * Guilty Gear Xrd
 * Mortal Kombat 10
-* SkullGrils
-* Street Fitgher 2X
+* SkullGirls
+* Street Fighter 2X
 * Street Fighter 3.3
 * Street Fighter IV
 * Street Fighter V
